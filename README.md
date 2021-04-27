@@ -1,1 +1,1 @@
-# 2-plinko
+# Box Class
